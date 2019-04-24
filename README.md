@@ -15,6 +15,7 @@ Projet d'Alexandre Labonne @Lab's
    Quel groupe a sorti l'album "Use Your Illusion II" ?
 ```Guns N Roses```
 
+
 ### Niveau Moyen
    Combien y a t'il d'albums dont le titre contient "Great" ?
 ```13```
@@ -27,6 +28,7 @@ Projet d'Alexandre Labonne @Lab's
 
    Combien de chanson durent exactement 158589 millisecondes ?
 ```0```
+
 
 ### Niveau Difficile
 Pour ces questions, tu vas devoir effectuer des boucles dans la console Rails. C'est peu commun mais c'est faisable, tout comme dans IRB.
